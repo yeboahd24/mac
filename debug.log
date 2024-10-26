@@ -1,0 +1,14 @@
+Login error: NOT NULL constraint failed: user_resource.classification_level
+Failed to create audit log for error: NOT NULL constraint failed: user_resource.classification_level
+Login error: NOT NULL constraint failed: user_resource.classification_level
+Failed to create audit log for error: NOT NULL constraint failed: user_resource.classification_level
+Error creating audit log: NOT NULL constraint failed: user_auditlog.department_id
+Error creating audit log: NOT NULL constraint failed: user_auditlog.department_id
+Login error: 'User' object has no attribute 'departments'
+Login error: create_reverse_many_to_one_manager.<locals>.RelatedManager.__call__() missing 1 required keyword-only argument: 'manager'
+Login error: create_reverse_many_to_one_manager.<locals>.RelatedManager.__call__() missing 1 required keyword-only argument: 'manager'
+Login error: NOT NULL constraint failed: user_resource.classification_level
+Failed to create audit log for error: NOT NULL constraint failed: user_resource.classification_level
+Login error: NOT NULL constraint failed: user_resource.classification_level
+Failed to create audit log for error: cannot access local variable 'login_resource' where it is not associated with a value
+Login error: 'LoginView' object has no attribute '_create_audit_log'
